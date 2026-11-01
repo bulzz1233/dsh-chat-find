@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Chat Find",
+    "description": "Finds text in the rendered conversation, with match case, whole-word search, result counting, looping navigation, and search history."
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: chat-find
+      name: '@local/dsh-chat-find'
