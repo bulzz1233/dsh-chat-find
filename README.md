@@ -6,7 +6,8 @@
 
 <p align="center">
   In-conversation find bar for the DeepSeek Harness desktop UI.<br>
-  在 DeepSeek Harness 对话内查找文本的插件。
+  在 DeepSeek Harness 对话内查找文本的插件。<br>
+  English | <a href="README.zh.md">中文</a>
 </p>
 
 Chat Find adds a browser/IDE-style find bar to the DeepSeek Harness conversation view. It searches every **rendered** chat node — user messages, assistant output, tool cards, and older pages already loaded into the transcript — without touching the composer draft or the find bar itself.
